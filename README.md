@@ -1,45 +1,52 @@
-<h1 align="center">👋 Hey there! I'm Sanlipta Das</h1>
+<h1 align="center">👋 Hi, I'm Sanlipta Das</h1>
 
 <p align="center">
-🎓 Final-year B.Tech Student (Civil Engineering) <br/>
-🏫 National Institute of Technology, Durgapur <br/>
-💡 Passionate about Tech • Design • Data • Speaking
+🎓 Final-year B.Tech (Civil Engineering) | NIT Durgapur <br/>
+💡 Tech | Design | Data | Public Speaking
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a tech-savvy creative mind who enjoys turning ideas into functional, beautiful digital experiences. Whether it's **coding**, **designing**, or **analyzing data**, I thrive on building things that matter. When I’m not coding, I love speaking at events, hosting sessions, or crafting visuals that inspire.
-
----
-
-## 💼 What I Do
-
-- 💻 **Frontend Development** – HTML, CSS, JavaScript, React  
-- 🎨 **Graphic Design** – Canva, Figma, Adobe Suite  
-- 📊 **Data Analysis** – SQL, Excel, Dashboards  
-- 🗣️ **Speaker & Host** – Debates, Tech Talks, Events  
-- 👨‍💻 **Problem Solving** – Logic building & coding challenges  
+I build clean, functional digital experiences blending **frontend development**, **design**, and **data analysis** — fueled by curiosity and creativity.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
+  <b>Frontend:</b>  
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24"/>  
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24"/>  
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24"/>  
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24"/>  
+</p>
+
+<p align="center">
+  <b>Design:</b>  
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="24"/>  
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" height="24"/>  
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" height="24"/>
+</p>
+
+<p align="center">
+  <b>Data & Tools:</b>  
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height="24"/>  
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" height="24"/>  
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="24"/>  
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" height="24"/>  
+</p>
+
+<p align="center">
+  <b>Speaking & Communication:</b>  
+  🗣️ Excellent public speaker, experienced debater & event host <br/>
+  🌐 Fluent in English, Hindi & Bengali (professional level)
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanlipta-das-a425aa340/" target="_blank">
@@ -55,4 +62,4 @@ I'm a tech-savvy creative mind who enjoys turning ideas into functional, beautif
 
 ---
 
-> _"Curiosity fuels creativity. Keep building, keep growing."_ 🌱
+> _"Curiosity fuels creativity. Keep building."_ 🌱
